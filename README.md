@@ -1,16 +1,8 @@
 # filmler_app
 
-A new Flutter project.
+filmleri listeledigim uygulama.
 
-## Getting Started
+![Ekran görüntüsü 2023-10-10 160211](https://github.com/ebcengiz/filmler_app/assets/99767648/fa5dc3cf-710d-4133-9e6c-171dd4656397)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2023-10-10 160231](https://github.com/ebcengiz/filmler_app/assets/99767648/2c43111a-1056-4df5-b59a-d7452cd5fb5f)
